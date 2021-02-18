@@ -132,11 +132,11 @@ html {
     display: none;
   }
   .text h1 {
-    font-size: 4rem;
-    line-height: 3.25rem;
+    font-size: 3rem;
+    line-height: 2.35rem;
   }
   .text p {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 }
 
@@ -893,6 +893,9 @@ html {
   }
   .collections .first-half .text-info p:nth-of-type(1) {
     font-size: 1.2rem;
+  }
+  .collections .gallery .about-text p {
+    font-size: 1rem;
   }
 }
 /* letter starts
