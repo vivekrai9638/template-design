@@ -131,6 +131,13 @@ html {
   .nav-bar a {
     display: none;
   }
+  .text h1 {
+    font-size: 4rem;
+    line-height: 3.25rem;
+  }
+  .text p {
+    font-size: 1.2rem;
+  }
 }
 
 /* articles
@@ -1016,7 +1023,7 @@ input[type="submit"] {
   /* all: unset; */
   padding: 1.6rem 3.75rem;
   background-color: #fff;
-  border: 0.3rem solid #cccccc;
+  border: 0.3rem solid #000;
   font-size: 1.5rem;
 }
 
